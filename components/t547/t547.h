@@ -26,6 +26,9 @@ class T547 : public PollingComponent, public display::DisplayBuffer {
   void clean();
   void update() override;
 
+  void display_partial();
+  void update_partial();
+
   void setup() override;
 
   uint8_t get_panel_state() { return this->panel_on_; }
