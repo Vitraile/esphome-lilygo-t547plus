@@ -1,3 +1,8 @@
+Updated version of the Nickolay library to add compatibility with newer version of esphome, as well as add a function to do partial refresh.
+
+--------------------------------------------------------------------------------------------------------------
+
+
 This repository contains a Display component for [ESPHome](https://esphome.io/)
 to support the ESP32-S3 [LILYGO T5 4.7" Plus E-paper display](https://www.lilygo.cc/products/t5-4-7-inch-e-paper-v2-3).
 
